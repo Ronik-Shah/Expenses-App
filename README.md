@@ -3,9 +3,9 @@
 A simple flutter application on daily wage of expenses.
 
 ## Getting Started
-<div align="left"><img src="assets/ReadmeImages/firstTimeOpeningScreenshot.png" height="400px" width="200px"/></div>
-<div align="right"><img src="assets/ReadmeImages/FinalView.png" height="400px" width="200px"/></div>
-<div align="center"><img src="assets/ReadmeImages/Bottom%20Sheet.png" height="400px" width="200px"/></div>
+<p float="left"><img src="assets/ReadmeImages/firstTimeOpeningScreenshot.png" height="400px" width="200px"/>
+<img src="assets/ReadmeImages/FinalView.png" height="400px" width="200px"/>
+<img src="assets/ReadmeImages/Bottom%20Sheet.png" height="400px" width="200px"/></p>
  
 This is the when you open the app(also after closing it and reopening it)
 
