@@ -4,8 +4,8 @@ A simple flutter application on daily wage of expenses.
 
 <p float="left">
  <img src="assets/ReadmeImages/firstTimeOpeningScreenshot.png" height="400px" width="200px" hspace="40px"/>
-  <img src="assets/ReadmeImages/FinalView.png" height="400px" width="200px" hspace="40px"/>
-  <img src="assets/ReadmeImages/Bottom%20Sheet.png" height="400px" width="200px" hspace="40px"/>
+ <img src="assets/ReadmeImages/Bottom%20Sheet.png" height="400px" width="200px" hspace="40px"/>
+ <img src="assets/ReadmeImages/FinalView.png" height="400px" width="200px" hspace="40px"/>
 </p>
 
 ## Getting Started
