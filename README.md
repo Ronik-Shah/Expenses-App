@@ -7,6 +7,7 @@ A simple flutter application on daily wage of expenses.
   <img src="assets/ReadmeImages/FinalView.png" height="400px" width="200px" hspace="40px"/>
   <img src="assets/ReadmeImages/Bottom%20Sheet.png" height="400px" width="200px" hspace="40px"/>
 </p>
+
 ## Getting Started
 The app starts with the screen as shown in first figure.
 
