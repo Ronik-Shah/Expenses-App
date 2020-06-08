@@ -12,8 +12,8 @@ Let's go through the app. The app has :
 - A Floating Action Button or the button up in the app bar will open a modal bottom sheet which help us to add a transaction.
 
  ## Pressing '+' icon
- ![](assets/ReadmeImages/Bottom%20Sheet.png =200*100)
-It opens an bottom sheet which has the following components :
+ <div align="center"><img src="assets/ReadmeImages/Bottom%20Sheet.png" height="500px" width="300px"/></div>
+ It opens an bottom sheet which has the following components :
 
 - Title will contain the name of item
 - Amount the price in dollars
