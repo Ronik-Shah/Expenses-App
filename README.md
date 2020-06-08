@@ -3,7 +3,10 @@
 A simple flutter application on daily wage of expenses.
 
 ## Getting Started
-<div align="left"><img src="assets/ReadmeImages/firstTimeOpeningScreenshot.png" height="500px" width="300px"/></div>
+<div align="left"><img src="assets/ReadmeImages/firstTimeOpeningScreenshot.png" height="400px" width="200px"/></div>
+<div align="right"><img src="assets/ReadmeImages/FinalView.png" height="400px" width="200px"/></div>
+<div align="center"><img src="assets/ReadmeImages/Bottom%20Sheet.png" height="400px" width="200px"/></div>
+ 
 This is the when you open the app(also after closing it and reopening it)
 
 Let's go through the app. The app has :
@@ -12,7 +15,6 @@ Let's go through the app. The app has :
 - A Floating Action Button or the button up in the app bar will open a modal bottom sheet which help us to add a transaction.
 
  ## Pressing '+' icon
- <div align="center"><img src="assets/ReadmeImages/Bottom%20Sheet.png" height="500px" width="300px"/></div>
  It opens an bottom sheet which has the following components :
 
 - Title will contain the name of item
@@ -21,7 +23,6 @@ Let's go through the app. The app has :
 - Add transaction will add the item to the list.
 
 ## Final View
-<div align="right"><img src="assets/ReadmeImages/FinalView.png" height="500px" width="300px"/></div>
 The final view is as follows:
 - The chart shows the relative expenditure done in the last week with respect to day.
 - The list item shows the price in the circle, title and date. On pressing the delete icon that item will be deleted.
