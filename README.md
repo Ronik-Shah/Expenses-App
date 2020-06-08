@@ -3,7 +3,7 @@
 A simple flutter application on daily wage of expenses.
 
 ## Getting Started
-![](assets/ReadmeImages/firstTimeOpeningScreenshot.png =200*100)
+<img src="assets/ReadmeImages/firstTimeOpeningScreenshot.png" height="200px")/>
 This is the when you open the app(also after closing it and reopening it)
 
 Let's go through the app. The app has :
