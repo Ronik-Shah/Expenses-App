@@ -34,3 +34,6 @@ The final view is as follows(shown in 3rd image):
 ## Future Improvements
 - The items are not stored permanently. On closing and reopening the app, All the data is lost.
 - More interactive bottom sheet. 
+
+## Download
+The apk file can be downloaded from [here](https://drive.google.com/file/d/1AzWIt1QSnFWh6SIdgbOsKZR-BtABD9ZV/view?usp=sharing).
